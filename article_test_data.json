@@ -10,21 +10,65 @@
         "name": "Dummy PDF",
         "category":"English",
         "author":"Unknown",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg",
+        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
         "pdfurl" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
     },
     {
         "name": "Africau PDF",
         "category":"English",
         "author":"Unknown",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg",
+        "img": "https://www.pngfind.com/pngs/m/647-6474535_mehron-paradise-paint-palette-png-download-mehron-paradise.png",
+        "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
+    },
+    
+    {
+        "name": "Africau PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
         "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
     },
     {
         "name": "Dummy PDF",
         "category":"English",
         "author":"Unknown",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg",
+        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
+        "pdfurl" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "name": "Africau PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://www.pngfind.com/pngs/m/647-6474535_mehron-paradise-paint-palette-png-download-mehron-paradise.png",
+        "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
+    },
+    
+    {
+        "name": "Africau PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
+        "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+        "name": "Dummy PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
+        "pdfurl" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "name": "Africau PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://www.pngfind.com/pngs/m/647-6474535_mehron-paradise-paint-palette-png-download-mehron-paradise.png",
+        "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+        "name": "Dummy PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
         "pdfurl" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
     }
 ]
