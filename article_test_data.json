@@ -21,6 +21,27 @@
         "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
     },
     {
+        "name": "Africau PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg",
+        "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+        "name": "Dummy PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg",
+        "pdfurl" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+    },
+    {
+        "name": "Africau PDF",
+        "category":"English",
+        "author":"Unknown",
+        "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg",
+        "pdfurl" : "http://www.africau.edu/images/default/sample.pdf"
+    },
+    {
         "name": "Dummy PDF",
         "category":"English",
         "author":"Unknown",
