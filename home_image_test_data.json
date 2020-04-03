@@ -1,22 +1,21 @@
 [
     {
-        "name": "Sample PDF with 10P",
-        "category":"English",
-        "author":"Unknown",
-        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
-        "pdfurl" : "https://gahp.net/wp-content/uploads/2017/09/sample.pdf"
+        "eventname": "Fasting Prayer",
+        "eventplace":"NJC Church",
+        "eventdate" : "03-04-2020",
+        "imageurl": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png"
+    
     },
     {
-        "name": "Dummy PDF",
-        "category":"English",
-        "author":"Unknown",
-        "img": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png",
-        "pdfurl" : "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        "eventname": "Youth Meeting",
+        "eventplace":"NJC Church",
+        "eventdate" : "08-04-2020",
+        "imageurl": "https://www.pngfind.com/pngs/m/647-6474535_mehron-paradise-paint-palette-png-download-mehron-paradise.png"
     },
     {
-        "name": "Escaux Customer Docs",
-        "category":"English",
-        "author":"Unknown",
-        "img": "https://www.pngfind.com/pngs/m/647-6474535_mehron-paradise-paint-palette-png-download-mehron-paradise.png",
-        "pdfurl" : "https://www.escaux.com/rsrc/EscauxCustomerDocs/DRD_T38Support_AdminGuide/T38_TEST_PAGES.pdf"
-    },
+        "eventname": "Chain Prayers",
+        "eventplace":"NJC Church",
+        "eventdate" : "05-04-2020",
+        "imageurl": "https://www.pngfind.com/pngs/m/58-587021_paint-palette-png-photos-clipart-color-palette-png.png"
+    }
+]
